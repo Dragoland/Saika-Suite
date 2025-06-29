@@ -1,0 +1,3 @@
+# Dependencias específicas para Android (Buildozer)
+python3==3.8.5
+android==0.2
