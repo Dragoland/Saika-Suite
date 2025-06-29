@@ -1,9 +1,3 @@
-Claro, aquí tienes una plantilla para el archivo `CONTRIBUTING.md` (Guía para Contribuyentes) en español. Este archivo es crucial para cualquier proyecto de código abierto en GitHub, ya que proporciona las directrices necesarias para que otros puedan colaborar de manera efectiva.
-
-Se enfoca en un flujo de trabajo claro, buenas prácticas y cómo mantener la coherencia del proyecto.
-
------
-
 # Guía para Contribuyentes de Saika Suite
 
 ¡Gracias por tu interés en contribuir a Saika Suite\! Tu apoyo es fundamental para hacer de este proyecto una herramienta poderosa y accesible para la comunidad cubana y más allá.
